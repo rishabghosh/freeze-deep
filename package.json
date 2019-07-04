@@ -1,0 +1,23 @@
+{
+  "name": "freezedeep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "eslint": "^6.0.1",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.2"
+  }
+}
